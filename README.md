@@ -6,8 +6,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexDelly)
 
 ## Languages:<br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white)](https://wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23ED8B00?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23ED8B00?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23ED8B00?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 ## Tools:<br>
 
 

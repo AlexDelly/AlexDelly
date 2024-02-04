@@ -28,7 +28,7 @@
 
 ## GitHub:<br>
 
-<img src=https://github-readme-stats.vercel.app/api?username=AlexDelly&show_icons=true alt=AlexDelly />
+<p><img src=https://github-readme-stats.vercel.app/api?username=AlexDelly&show_icons=true alt=AlexDelly /></p>
 
 ## LeetCode:<br>
 

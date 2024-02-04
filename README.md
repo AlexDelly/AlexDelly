@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=B23CDA&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=Greetings+username)](https://github.com/AlexDelly)
+
+<h1 align="center">I'm Alex</h1>
 
 <h3 align="center">I am a Frontend Developer from Moscow</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=B23CDA&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=Greetings+username)](https://github.com/d4rsen)
 
 ## Contact me:<br>
 

@@ -34,4 +34,3 @@
 
 ## LeetCode:<br>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AlexDelly)](https://leetcode.com/AlexDelly/)

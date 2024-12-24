@@ -32,6 +32,6 @@
 
 ## LeetCode:<br>
 
-[![AlexUtany's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AlexUtany)](https://github.com/AlexUtany/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AlexUtany?ext=heatmap)
 
 
